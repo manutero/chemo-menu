@@ -1,0 +1,27 @@
+{
+  "bebidas": {
+    "Zumo de naranja": 0.8,
+    "Aquarius": 0.7,
+    "Coca Cola": 0.6,
+    "Coca Cola Light": 0.6,
+    "Coca Cola Zero": 0.6
+  },
+  "sandwiches": {
+    "Sandwich vegetal": 2.2,
+    "Sandwich sensacional": 3.15,
+    "Sandwich lomo Brie": 3.15,
+    "Sandwich pollo": 3.15
+  },
+  "wraps": {
+    "Wrap clásico jamón y queso": 3.15,
+    "Wrap pollo Tex-Mex": 3.15,
+    "Wrap salmon y chucrut": 3.2
+  },
+  "ensaladas": {
+    "Ensalada de pasta a la Genovesa": 2.56,
+    "Ensalada césar": 3.15,
+    "Ensalaca de pollo Gourmet": 3.15,
+    "Ensalda ligera de atún y pesto": 3.3,
+    "Ensalda de queso de cabra y frutos secos": 3.15
+  }
+}
